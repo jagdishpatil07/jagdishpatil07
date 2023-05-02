@@ -14,7 +14,7 @@ I'm Jagdish patil from Maharashtra India , I Studying Master In Computer Applica
 
 Skills: C/CPP/Java/Javascript/Python/Sql/Basic Bootstrap / HTML / CSS
 
-- 🌱 I’m currently learning Master in Computer Application 
+- 🌱 I’m currently learning Master of Computer Application 
 - 👯 I’m looking to collaborate on Software And Devlopement 
 - 💬 Ask me about patiljagdish196139@gmail.com 
 
