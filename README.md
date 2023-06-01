@@ -11,10 +11,11 @@ I'm Jagdish patil from Maharashtra India , I Studying Master Of Computer Applica
 
 ### Skills
 
+   Skills: C / CPP / Java / Javascript / Sql / HTML / CSS
    
-[![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/jagdishpatil07)
-[![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)](https://github.com/jagdishpatil07)
-[![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus)](https://github.com/v[![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/jagdishpatil07)  ### C / SQL / CSS
+   ### OS
+[![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/jagdishpatil07)
+[![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/jagdishpatil07)
 
 
 
@@ -34,6 +35,3 @@ I'm Jagdish patil from Maharashtra India , I Studying Master Of Computer Applica
 
 ![Profile views](https://gpvc.arturio.dev/jagdishpatil07)  
 
-### OS
-[![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/jagdishpatil07)
-[![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/jagdishpatil07)
