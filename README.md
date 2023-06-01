@@ -11,9 +11,13 @@ I'm Jagdish patil from Maharashtra India , I Studying Master Of Computer Applica
 
 ### Skills
 
-	https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white
+   
+[![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/jagdishpatil07)
+[![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)](https://github.com/jagdishpatil07)
+[![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus)](https://github.com/v[![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/jagdishpatil07)  ### C / SQL / CSS
 
-Skills: C / Java / Sql / HTML / CSS
+
+
 
 - 🌱 I’m currently learning Master of Computer Application 
 - 👯 I’m looking to collaborate on Software And Devlopement 
