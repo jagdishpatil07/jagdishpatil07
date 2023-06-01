@@ -9,7 +9,13 @@
 
 I'm Jagdish patil from Maharashtra India , I Studying Master Of Computer Application ( Professional ) I'm looking to collaborate my self in Software industry
 
-Skills: C / CPP / Java / Javascript / Sql / HTML / CSS
+### Skills
+
+[![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/jagdishpatil07)
+[![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)](https://github.com/jagdishpatil07)
+[![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus)](https://github.com/v[![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)]https://github.com/jagdishpatil07)
+m21242124)
+Skills: C / Java / Sql / HTML / CSS
 
 - 🌱 I’m currently learning Master of Computer Application 
 - 👯 I’m looking to collaborate on Software And Devlopement 
@@ -25,12 +31,7 @@ Skills: C / CPP / Java / Javascript / Sql / HTML / CSS
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=jagdishpatil07)  
 
 ![Profile views](https://gpvc.arturio.dev/jagdishpatil07)  
-### Skills
 
-[![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/jagdishpatil07)
-[![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)](https://github.com/jagdishpatil07)
-[![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus)](https://github.com/v[![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)]https://github.com/jagdishpatil07)
-m21242124)
 ### OS
 [![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/jagdishpatil07)
 [![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/jagdishpatil07)
