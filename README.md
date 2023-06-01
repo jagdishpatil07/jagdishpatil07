@@ -1,7 +1,4 @@
 
-
-
-
 ### Hi there 👋, my name Jagdish patil
 #### Software And Development
 
@@ -29,5 +26,10 @@ Skills: C / CPP / Java / Javascript / Sql / HTML / CSS
 
 ![Profile views](https://gpvc.arturio.dev/jagdishpatil07)  
 
-
-
+[![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/vm21242124)
+[![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)](https://github.com/vm21242124)
+[![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus)](https://github.com/v[![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/vm21242124)
+m21242124)
+### OS
+[![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/vm21242124)
+[![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/vm21242124)
