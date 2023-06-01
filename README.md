@@ -7,7 +7,7 @@
 
 
 
-I'm Jagdish patil from Maharashtra India , I Studying Master In Computer Application ( Professional ) I'm looking to collaborate my self in Software industry
+I'm Jagdish patil from Maharashtra India , I Studying Master Of Computer Application ( Professional ) I'm looking to collaborate my self in Software industry
 
 Skills: C / CPP / Java / Javascript / Sql / HTML / CSS
 
