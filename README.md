@@ -7,7 +7,7 @@
 
 
 
-I'm Jagdish patil from Maharashtra India , I'M working in IFTAS(Reserve Bank of India) as Cloud and Networking Engineer.
+I'm Jagdish patil from Maharashtra India , I'M working in IFTAS(Reserve Bank of India) as Cloud and Network Engineer.
 
 
 ### Skills
