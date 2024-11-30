@@ -1,17 +1,18 @@
 
 ### Hi there 👋, my name Jagdish patil
-#### Software And Development
+#### DevOps, Cloud and Networking specialist.
 
 
 
 
 
 
-I'm Jagdish patil from Maharashtra India , I Studying Master Of Computer Application ( Professional ) I'm looking to collaborate my self in Software industry
+I'm Jagdish patil from Maharashtra India , I'M working in IFTAS(Reserve Bank of India) as Cloud and Networking Engineer.
+
 
 ### Skills
 
-   Skills: C / CPP / Java / Javascript / Sql / HTML / CSS
+   Skills: DevOps / AWS / AZURE / GCP / Networking / Jenkins / Maven / GitHUb.
    
    ### OS
 [![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/jagdishpatil07)
@@ -20,8 +21,9 @@ I'm Jagdish patil from Maharashtra India , I Studying Master Of Computer Applica
 
 
 
-- 🌱 I’m currently learning Master of Computer Application 
-- 👯 I’m looking to collaborate on Software And Devlopement 
+- 🌱 I'M working in IFTAS(Reserve Bank of India) as Cloud and Networking Engineer.
+  -  I have done My Master of Computer Applications in KBC North Maharashtra univesity, Jalgaone maharashtra, India.
+- 👯 I’m looking to collaborate on DevOps And Cloud Domain. 
 - 💬 Ask me about patiljagdish196139@gmail.com 
 
 
