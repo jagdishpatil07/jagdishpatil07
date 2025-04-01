@@ -7,17 +7,20 @@
 ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
 
 ### 👨‍💻 About Me
+- **Name:** JAGDISH PATIL
 - 🏢 **Experience:** 1.5+ Years in DevOps & AWS Cloud
 - 🎓 **Certifications:**
   - ✅ AWS Certified Solutions Architect – Associate 🏆
   - ✅ Certified Kubernetes Administrator (CKA) 🏆
   - ✅ Master DevOps Certification 🏆
+  - ✅ Cisco Certified Network Associate (CCNA) 🏆
 - 🌍 **Skills & Expertise:**
-  - Cloud Computing (AWS)
-  - DevOps Tools & CI/CD
-  - Infrastructure as Code (IaC)
-  - Kubernetes & Docker
-  - Monitoring & Security
+  - Cloud Computing (AWS, Azure)
+  - DevOps Tools & CI/CD Automation
+  - Infrastructure as Code (IaC) with Terraform & Ansible
+  - Kubernetes & Docker for Container Orchestration
+  - Monitoring, Logging, and Security (Prometheus, Grafana, AWS Security Services)
+  - Load Balancing, Auto Scaling & High Availability Architectures
 
 ---
 
@@ -47,16 +50,14 @@
 ---
 
 ## 📌 Featured Projects
-- 🔹 **Scalable & Secure Web Application on AWS** - Load Balanced, Auto-Scaled architecture with CI/CD pipeline.
-- 🔹 **Kubernetes Multi-Node Cluster** - Set up on AWS using EKS with monitoring & security.
-- 🔹 **Full DevOps CI/CD Pipeline** - Automated deployment using Jenkins, Docker, and Terraform.
+- 🔹 **Scalable & Secure Web Application on AWS** - Implemented Load Balancing, Auto-Scaling, and CI/CD pipeline.
+- 🔹 **Kubernetes Multi-Node Cluster** - Set up and managed EKS-based Kubernetes cluster with monitoring & security.
+- 🔹 **Full DevOps CI/CD Pipeline** - Automated deployment using Jenkins, Docker, and Terraform for microservices.
+- 🔹 **AWS Serverless Application** - Developed a cost-efficient serverless solution using AWS Lambda, API Gateway & DynamoDB.
 
 ---
 
 ## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jagdish-patil-576682259/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username)
-
----
-
-_🚀 Let's build scalable, high-availability cloud solutions!_
+[![Naukri](https://img.shields.io/badge/Naukri-0059A5?style=for-the-badge&logo=naukri&logoColor=white)](https://www.naukri.com/mnjuser/profile?id=&altresid)
