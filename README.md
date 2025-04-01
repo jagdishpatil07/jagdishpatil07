@@ -11,7 +11,7 @@
 - 🏢 **Experience:** 1.5+ Years in DevOps & AWS Cloud
 - 🎓 **Certifications:**
   - ✅ AWS Certified Solutions Architect – Associate 🏆
-  - ✅ Certified Kubernetes Administrator (CKA) 🏆
+  - ✅ Certified Kubernetes from Simplilearn 🏆
   - ✅ Master DevOps Certification 🏆
   - ✅ Cisco Certified Network Associate (CCNA) 🏆
 - 🌍 **Skills & Expertise:**
