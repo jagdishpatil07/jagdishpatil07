@@ -9,11 +9,12 @@
 ### 👨‍💻 About Me
 - **Name:** JAGDISH PATIL
 - 🏢 **Experience:** 1.5+ Years in DevOps & AWS Cloud
-- 🎓 **Certifications:**
+- 🎓 **Global Certifications:**
   - ✅ AWS Certified Solutions Architect – Associate 🏆
+  - ✅ Cisco Certified Network Associate (CCNA) 🏆
+- 🎓 **National Certifications:**
   - ✅ Certified Kubernetes from Simplilearn 🏆
   - ✅ Master DevOps Certification 🏆
-  - ✅ Cisco Certified Network Associate (CCNA) 🏆
 - 🌍 **Skills & Expertise:**
   - Cloud Computing (AWS, Azure)
   - DevOps Tools & CI/CD Automation
