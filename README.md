@@ -1,39 +1,62 @@
+## 🚀 DevOps & Cloud Engineer Portfolio
 
-### Hi there 👋, my name Jagdish patil
-#### DevOps, Cloud and Networking specialist.
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
 
+### 👨‍💻 About Me
+- 🏢 **Experience:** 1.5+ Years in DevOps & AWS Cloud
+- 🎓 **Certifications:**
+  - ✅ AWS Certified Solutions Architect – Associate 🏆
+  - ✅ Certified Kubernetes Administrator (CKA) 🏆
+  - ✅ Master DevOps Certification 🏆
+- 🌍 **Skills & Expertise:**
+  - Cloud Computing (AWS)
+  - DevOps Tools & CI/CD
+  - Infrastructure as Code (IaC)
+  - Kubernetes & Docker
+  - Monitoring & Security
 
+---
 
+## 🛠️ Technologies & Tools
 
+### **Cloud Platforms** ☁️
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
+### **DevOps & CI/CD** ⚙️
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)
 
-I'm Jagdish patil from Maharashtra India , I'M working in IFTAS(Reserve Bank of India) as Cloud and Network Engineer.
+### **Containerization & Orchestration** 🐳
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
+### **Infrastructure as Code (IaC)** 🏗️
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 
-### Skills
+### **Monitoring & Logging** 📊
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 
-   Skills: DevOps / AWS / AZURE / GCP / Networking / Jenkins / Maven / GitHUb.
-   
-   ### OS
-[![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/jagdishpatil07)
-[![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/jagdishpatil07)
+---
 
+## 📌 Featured Projects
+- 🔹 **Scalable & Secure Web Application on AWS** - Load Balanced, Auto-Scaled architecture with CI/CD pipeline.
+- 🔹 **Kubernetes Multi-Node Cluster** - Set up on AWS using EKS with monitoring & security.
+- 🔹 **Full DevOps CI/CD Pipeline** - Automated deployment using Jenkins, Docker, and Terraform.
 
+---
 
+## 📫 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username)
 
-- 🌱 I'M working in IFTAS(Reserve Bank of India) as Cloud and Networking Engineer.
-  -  I have done My Master of Computer Applications in KBC North Maharashtra univesity, Jalgaone maharashtra, India.
-- 👯 I’m looking to collaborate on DevOps And Cloud Domain. 
-- 💬 Ask me about patiljagdish196139@gmail.com 
+---
 
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/jagdishpatil07)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/jagdish patil/)  [<img 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jagdishpatil07)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=jagdishpatil07&show_icons=true&count_private=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=jagdishpatil07)  
-
-![Profile views](https://gpvc.arturio.dev/jagdishpatil07)  
-
+_🚀 Let's build scalable, high-availability cloud solutions!_
