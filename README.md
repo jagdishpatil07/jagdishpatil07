@@ -1,5 +1,4 @@
-## 🚀 DevOps & Cloud Engineer
-![Black Gold Minimalist Elegant Business LinkedIn Banner (1)](https://github.com/user-attachments/assets/a5fa2002-fd19-4d92-9203-3ed0913d4b96)
+![Abstract Technology Profile LinkedIn Banner (3)](https://github.com/user-attachments/assets/2c87e518-fbb5-4159-ad66-afc8b65e3cff)## 🚀 DevOps & Cloud Engineer
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
