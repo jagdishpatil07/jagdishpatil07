@@ -1,3 +1,4 @@
+![Uploading Blue Geometric Technology General Professional LinkedIn Banner.png…]()
 ![Abstract Technology Profile LinkedIn Banner (3)](https://github.com/user-attachments/assets/2c87e518-fbb5-4159-ad66-afc8b65e3cff)## 🚀 DevOps & Cloud Engineer
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
