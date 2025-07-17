@@ -1,11 +1,13 @@
-![Uploading Blue Geometric Technology General Professional LinkedIn Banner.png…]()
-![Abstract Technology Profile LinkedIn Banner (3)](https://github.com/user-attachments/assets/2c87e518-fbb5-4159-ad66-afc8b65e3cff)## 🚀 DevOps & Cloud Engineer
+<img src="https://github.com/user-attachments/assets/57649418-1f1a-4186-92ad-705f2246708f" alt="DevOps & Cloud Engineer Banner" width="100%" />
+
+## 🚀 DevOps & Cloud Engineer
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
+
 
 ### 👨‍💻 About Me
 - **Name:** JAGDISH PATIL
